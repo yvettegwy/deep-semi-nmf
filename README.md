@@ -1,2 +1,2 @@
 # deep-semi-nmf
-a deep semi non-negative matrix factorization algorithm written in tensorflow (Trigeorgis2014)
+A tensorflow-based deep semi-NMF algorithm (theano-based:https://github.com/trigeorgis/Deep-Semi-NMF)
